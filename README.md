@@ -1,9 +1,12 @@
 # SecureSeedStorage
 
 The Problem
+
 •	Unhandy seeds to log into wallet
+
 •	Security concerns regarding
 o	seed storage
+
 o	copy&paste the seed to the wallet (Spyware)
 o	loss of the seed
 o	broken Computer
